@@ -1,9 +1,9 @@
+package foodics;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
-
-package foodics;
+ 
 
 public class FoodicsTask {
 	public static void main(String[] args) {
@@ -54,6 +54,5 @@ System.out.println("Count is greater than or equal to 1. Count is: "+count);
         System.out.println("Test script executed successfully.");
          System.exit(0);
  }
-
 
 }
